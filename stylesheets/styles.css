@@ -230,13 +230,13 @@ section {
   gap: 50px;
 }
 
-.video {
+/* .video {
   width: 500px;
   height: auto;
-  border-radius: 20px;
-  margin-left: 1cm;
+  border-radius: 50px;
+  margin-left: 2cm;
   margin-top: 0.25cm;
-}
+} */
 
 .descrip-proyectoMI {
   display: grid;
